@@ -1,5 +1,5 @@
 body {
-    font-family: 'Diplomat';
+
     font-size: 40px;
     color: rgb(238, 60, 149);
     display: flex;
@@ -8,8 +8,13 @@ body {
 
 }
 
-p {
+.titulo {
     text-align: center;
+}
+
+.texto {
+    font-size: 30px;
+    text-align: justify;
 }
 
 nav {
